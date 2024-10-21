@@ -2,4 +2,4 @@
 ::1  localhost
 
 # [@pawPatro2DAnimation]
-127.0.0.1 youtube.com/@pawPatro2DAnimation
+127.0.0.1 youtube.com
